@@ -729,9 +729,9 @@
 		<!-- Disable earpiece mode -->
 		<ctl name="BOOST earpiece mode" value="Off" />
 		<!-- Select Left channel on Left IC bypass mode -->
-		<ctl name="BOOST Left Ch Select" value="1" />
+		<ctl name="BOOST Left Ch Select" value="3" />
 		<!-- Select Right channel on Right IC bypass mode -->
-		<ctl name="BOOST Right Ch Select" value="2" />
+		<ctl name="BOOST Right Ch Select" value="3" />
 		<!-- Enable Mixers to power up Left and Right IC's -->
 		<ctl name="BOOST_STUB Right Mixer right" value="1" />
 		<ctl name="BOOST_STUB Left Mixer left" value="1" />
@@ -743,9 +743,9 @@
 		<!-- Disable earpiece mode -->
 		<ctl name="BOOST earpiece mode" value="Off" />
 		<!-- Select Left channel on Left IC bypass mode -->
-		<ctl name="BOOST Left Ch Select" value="2" />
+		<ctl name="BOOST Left Ch Select" value="4" />
 		<!-- Select Right channel on Right IC bypass mode -->
-		<ctl name="BOOST Right Ch Select" value="1" />
+		<ctl name="BOOST Right Ch Select" value="4" />
 		<!-- Enable Mixers to power up Left and Right IC's -->
 		<ctl name="BOOST_STUB Right Mixer right" value="1" />
 		<ctl name="BOOST_STUB Left Mixer left" value="1" />
