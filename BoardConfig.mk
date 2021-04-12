@@ -45,9 +45,6 @@ TARGET_BOARD_PLATFORM := msm8084
 TARGET_PROCESS_SDK_VERSION_OVERRIDE += \
     /system/bin/mm-qcamera-daemon=25
 
-# Face Unlock (crDroid Android)
-TARGET_DISABLE_ALTERNATIVE_FACE_UNLOCK := true
-
 # Charger
 BACKLIGHT_PATH := /sys/class/leds/lcd-backlight/brightness
 
